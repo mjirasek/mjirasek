@@ -1,0 +1,94 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: black;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    display: flow-root;
+}
+
+strong {
+  font-weight: 500;
+}
+
+#my_name {
+    color: rgb(39, 36, 34);
+    font-size: 1.5em;
+
+}
+
+/* .reference {
+    width: 85%;
+    border: 1px solid black;
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+    flex-direction: row;
+} */
+
+.reference_js {
+    width: 85%;
+    border: 1px solid black;
+    display: flex;
+    padding: 5px;
+    margin: 15px;
+    flex-direction: row;
+    align-items: center;
+    flex: 1;
+}
+
+
+.paper_details {
+    font-size: 1em;
+    margin-right: 5px;
+    margin-left: 25px;
+    display: inline;
+}
+
+
+.reference_js img {
+    width: 230px;
+    float: left;
+    margin-right: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.summary_of_paper {
+    font-size: 1em;
+    color: #3c3279;
+    /* margin-right: 5px; */
+    display: inline;
+}
+
+.my_contribution {
+    font-size: 1em;
+    color: #2d7fb6;
+    /* margin-right: 5px; */
+    display: inline;
+}
+
+.paper_reference>* {
+    display: inline;
+}
+
+.paper_journal {
+    font-style: italic;
+}
+.paper_journal::after {
+    content: ', ';
+}
+
+.paper_name::after {
+    content: '. ';
+}
+.paper_year::after {
+    content: ', ';
+}
+.paper_volume::after {
+    content: ', ';
+}
+.paper_pages::after {
+    content: ', ';
+}
