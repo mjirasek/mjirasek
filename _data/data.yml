@@ -18,6 +18,7 @@ sidebar:
     website: mjirasek.github.io #do not add http://
     linkedin: michael-jirasek-04b023273
     github: mjirasek
+    ORCID: 0000-0002-4630-6457
     # telegram: # add your nickname without '@' sign
     # twitter: '@xxx'
     # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -45,16 +46,26 @@ sidebar:
 career-profile:
     title: Briefly About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a team leader in the Lee Cronin research group at the 
+      University of Glasgow. With theteam, I focus ondigitalizing 
+      chemistry. This involves building in-house robotic platforms,
+       programming robots for chemicalexperiments, and implementing 
+       algorithms for online data analysis. I am developing and 
+       implementing machine learning algorithms for chemical robots 
+       to make autonomous decisions for the next experiment. Further, 
+       I amdeveloping experimental setups for unconventional chemistry. 
+       I am writing my software packages to interpret the data and 
+       supervise the work of the members of my team. I have 
+       co-authored 22 scientific publications and one patent. I am 
+       easily learning new skills, programming languages, and 
+       techniques. Originally trained as achemist, over years 
+       developed expertise in physical-organic chemistry, advanced 
+       spectroscopies, computational chemistry, 
+       programming and robots development.
 education:
     title: Education
     info:
-      - degree: PhD in Chemistry
+      - degree: PhD | Chemistry
         university: University of Oxford
         time: Oct 2016 - Mar 2020
         details: |
@@ -65,9 +76,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: MSc & BSc | Chemistry
+        university: UCT Prague
+        time: Sep 2010 - May 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
