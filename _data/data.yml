@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: xx@xx.com
+    email: jirasekphd@gmail.com
     # phone: 012 345 6789
     website: mjirasek.github.io #do not add http://
     linkedin: michael-jirasek-04b023273
@@ -22,7 +22,7 @@ sidebar:
     # telegram: # add your nickname without '@' sign
     # twitter: '@xxx'
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
